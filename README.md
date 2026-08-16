@@ -12,7 +12,7 @@ MB020 consists of a 4“x4” motherboard populated with 68020, EPM7128S, SIMM72
 
 ### Design Info
 - [Schematic](mb020_rev1_scm.pdf)
-- [Gerber photoplots](), 4-layer pc board
+- [Gerber photoplots](mb020_rev1_gerber.zip), 4-layer pc board
 - Bill of Materials
 - Engineering change. An enginnering change is required to connect CPLD's reset to 68020 reset.
 - [CPLD](mb020_r0_cpld_design_files.zip) design files
