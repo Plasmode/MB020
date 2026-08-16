@@ -1,6 +1,6 @@
 # MB020
 MB020 is a 4“x4” 68020-based motherboard with 3 RC2014 expansion slots. It allows RC2014 users to reuse their existing hardware to explore the 68020 processor.
-
+![MB020 top](MB020_rev0_topview.jpg)
 ### Features
 - MC68020
 - 4/16 meg 72-pin SIMM DRAM
