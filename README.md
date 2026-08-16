@@ -11,12 +11,11 @@ MB020 is a 4“x4” 68020-based motherboard with 3 RC2014 expansion slots. It a
 MB020 consists of a 4“x4” motherboard populated with 68020, EPM7128S, SIMM72 socket and 3 RC2014 expansion slots. The purpose is to reuse the existing RC2014 boards to explore MC68020. To that end, the boot ROM, I/O, mass storage will be the existing RC2014 boards. A 68020 monitor will be developed for the boot ROM so it can load files, display & modify memory and registers, and run applications. The I/O can be RC2014 SIO2 or 68B50 boards and a RC2014 CF board can be added to run CP/M68K.
 
 ### Design Info
-- Schematic
-- Gerber photoplots, 4-layer pc board
-- Gerber photoplots mb020_r1.zip ← 2-layer PCB is unreliable, replaced by 4-layer pc board.
+- [Schematic](mb020_rev1_scm.pdf)
+- [Gerber photoplots](), 4-layer pc board
 - Bill of Materials
 - Engineering change. An enginnering change is required to connect CPLD's reset to 68020 reset.
-- CPLD design files
+- [CPLD](mb020_r0_cpld_design_files.zip) design files
 
 ### Memory map
 
